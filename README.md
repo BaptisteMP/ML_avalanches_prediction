@@ -11,3 +11,10 @@ We have chosen to use machine learning to study precisely avalanches risks, aimi
 Indeed, our physical knowledge of avalanches and the data we dispose of are insufficient to carry out reliable predictions of avalanches. 
 Therefore, the usual approach to the prediction problem is statistical and that is why machine learning can be very useful: 
 it can help improve statistical models.
+
+# Project description:
+https://github.com/BaptisteMP/ML_avalanches_prediction/blob/master/Project%20Final%20Report.pdf
+
+# Juptyer Notebook:
+https://github.com/BaptisteMP/ML_avalanches_prediction/blob/master/Avalanche%20analysis.ipynb
+
